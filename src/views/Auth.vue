@@ -16,7 +16,7 @@ import Apostrophe from '../components/common/Apostrophe.vue'
 
 const clientID = 'Ov23liC4wgWgvdyREYet'
 const clientSecret = '6a589d0315d84f52fedd27fef1e99c074e55b966'
-const redirectUrl = 'http://githuboperatorweb-ahaostudys-projects.vercel.app/auth'
+const redirectUrl = 'https://github-operator-web.vercel.app/auth'
 
 const route = new useRoute()
 const router = new useRouter()

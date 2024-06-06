@@ -6,7 +6,7 @@ const Auth = () => import('../views/Auth.vue')
 const Operate = () => import('../views/Operate.vue')
 
 const clientID = 'Ov23liC4wgWgvdyREYet'
-const redirectUrl = 'http://localhost:5173/auth'
+const redirectUrl = 'https://github-operator-web.vercel.app/auth'
 
 const routes = [
   {
