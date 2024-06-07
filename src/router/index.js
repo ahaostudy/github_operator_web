@@ -1,5 +1,4 @@
 import { createRouter, createWebHistory } from 'vue-router'
-import { nextTick } from 'vue'
 
 const Home = () => import('../views/Home.vue')
 const Auth = () => import('../views/Auth.vue')
